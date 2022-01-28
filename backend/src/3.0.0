@@ -1,0 +1,11 @@
+Collecting python-jose
+  Downloading python_jose-3.2.0-py2.py3-none-any.whl (26 kB)
+Collecting ecdsa<0.15
+  Downloading ecdsa-0.14.1-py2.py3-none-any.whl (79 kB)
+Collecting rsa
+  Downloading rsa-4.7-py3-none-any.whl (34 kB)
+Collecting pyasn1
+  Downloading pyasn1-0.4.8-py2.py3-none-any.whl (77 kB)
+Requirement already satisfied: six<2.0 in c:\users\innovations\appdata\local\programs\python\python37\lib\site-packages (from python-jose) (1.15.0)
+Installing collected packages: pyasn1, rsa, ecdsa, python-jose
+Successfully installed ecdsa-0.14.1 pyasn1-0.4.8 python-jose-3.2.0 rsa-4.7
